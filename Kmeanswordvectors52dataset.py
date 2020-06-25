@@ -14,9 +14,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import sklearn
 from sklearn.ensemble import ExtraTreesClassifier, RandomForestClassifier
-from sklearn.cluster import KMeans, DBSCAN
+from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
-from sklearn.datasets import make_blobs
 from sklearn.preprocessing import StandardScaler
 from sklearn import metrics
 from mpl_toolkits import mplot3d
